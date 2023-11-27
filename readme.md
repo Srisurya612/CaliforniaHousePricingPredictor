@@ -4,7 +4,7 @@
 The module determines a way to predict the median prices of a house in calofornia based on distinguished features
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Srisurya612/CaliforniaHousePricingPredictor/blob/main/img/dataset-cover.jpg)
 
 
 ## Install
