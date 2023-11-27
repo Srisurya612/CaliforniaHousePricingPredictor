@@ -90,5 +90,5 @@ The Performance of the regressor is measured using R2 Score and Mean Squared Err
 | Metric | Value|
 |----------|----------|
 | R2 Score | 0.60 |
-| Mean Squared Error | 0.51 |
+| Mean Squared Error | 0.52 |
 
